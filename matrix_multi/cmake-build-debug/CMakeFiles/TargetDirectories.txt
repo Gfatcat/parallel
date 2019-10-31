@@ -1,0 +1,4 @@
+/home/fatcat/DATA/Workplace/C++/matrix_multi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fatcat/DATA/Workplace/C++/matrix_multi/cmake-build-debug/CMakeFiles/Matrix_mul.dir
+/home/fatcat/DATA/Workplace/C++/matrix_multi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fatcat/DATA/Workplace/C++/matrix_multi/cmake-build-debug/CMakeFiles/matrix_one_dem.dir

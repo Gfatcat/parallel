@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -g   CMakeFiles/sort.dir/sort.c.o  -o sort -lm 

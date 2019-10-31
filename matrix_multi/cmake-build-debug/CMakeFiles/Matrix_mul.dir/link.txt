@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -g   CMakeFiles/Matrix_mul.dir/Matrix_mul.c.o  -o Matrix_mul 

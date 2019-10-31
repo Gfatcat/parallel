@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fatcat/DATA/Workplace/C++/matrix_multi/one_dem.c
+stdio.h
+-
+stdlib.h
+-
+sys/time.h
+-
+xmmintrin.h
+-
+immintrin.h
+-
+omp.h
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fatcat/DATA/Workplace/C++/IntegerSort/sort.c
+stdio.h
+-
+stdlib.h
+-
+sys/time.h
+-
+string.h
+-
+xmmintrin.h
+-
+emmintrin.h
+-
+math.h
+-
+omp.h
+-
+
